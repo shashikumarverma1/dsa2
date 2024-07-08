@@ -1,1 +1,5 @@
-console.log(55)
+class Person{
+    constructor(name , age){
+        
+    }
+}
